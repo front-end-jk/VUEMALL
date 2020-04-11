@@ -217,6 +217,7 @@
 
   .swiper {
     display: flex;
+    width: 100%;
   }
 
   .indicator {
